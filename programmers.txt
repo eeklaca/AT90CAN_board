@@ -1,0 +1,9 @@
+jtagicemki.name=JTAG ICE mkI
+jtagicemki.communication=serial
+jtagicemki.protocol=jtag1
+
+
+usbtinyisp.name=(ATmegaCAN) USBtinyISP
+usbtinyisp.protocol=usbtiny
+usbtinyisp.program.tool=avrdude
+usbtinyisp.program.extra_params= 
